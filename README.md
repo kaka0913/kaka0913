@@ -6,5 +6,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaka0913)](https://github.com/ryo-ma/github-profile-trophy)
 ## my skills
 <p align="left">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=flutter,swift,go,react,js,html,css,firebase,github" />
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=flutter,swift,go,react,js,html,css,firebase" />
 </p>
