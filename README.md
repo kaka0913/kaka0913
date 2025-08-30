@@ -3,8 +3,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kaka0913&theme=onedark&show_icons=ture"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaka0913)](https://github.com/ryo-ma/github-profile-trophy)
 ## my skills
 <p align="left">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=flutter,swift,react,go,rails,firebase,supabase" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=swift,flutter,react,ts,go,firebase,supabase,docker,gcp,github" />
 </p>
